@@ -43,3 +43,7 @@ click();
 click();
 click();
 click();
+click();
+click();
+click();
+click();
